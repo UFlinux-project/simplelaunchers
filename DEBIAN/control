@@ -1,0 +1,6 @@
+Package: uf-simplelaunchers
+Version: 1.0.0
+Architecture: all
+Maintainer: UFlinux
+Depends: zsh | bash
+Description: Simple script launchers
