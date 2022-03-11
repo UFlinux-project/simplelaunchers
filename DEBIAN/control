@@ -1,5 +1,5 @@
 Package: uf-simplelaunchers
-Version: 1.0.0
+Version: 1.1
 Architecture: all
 Maintainer: UFlinux
 Depends: zsh | bash

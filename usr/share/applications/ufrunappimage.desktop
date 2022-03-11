@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=sh -c "AFILE=%f; chmod +x $AFILE; $AFILE"
+Name=Run AppImage app
+Name[cs_CZ]=Spustit program AppImage
+Icon=AppImage
+NoDisplay=true
+MimeType=application/vnd.appimage;
